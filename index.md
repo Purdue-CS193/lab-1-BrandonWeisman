@@ -1,3 +1,9 @@
+# Brandon Weisman's first CS193 lab
+Things I like about CS193:
+- Only a 50 minute lab
+- Instructors seem cool 
+- Its not at IU
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
